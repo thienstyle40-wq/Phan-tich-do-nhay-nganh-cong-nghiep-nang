@@ -1,0 +1,13 @@
+--- MLOps Training Log: Thập niên 2026 ---
+Generated at: 2026-04-06 13:02:05
+
+TICKER: HPG
+Model Type: SVR (Support Vector Regression)
+Best Hyperparameters: {'C': 0.01, 'cache_size': 200, 'coef0': 0.0, 'degree': 3, 'epsilon': 0.2, 'gamma': 'scale', 'kernel': 'rbf', 'max_iter': -1, 'shrinking': True, 'tol': 0.001, 'verbose': False}
+MAE trên tập Validation (Quý 1/2026): 1.519%
+----------------------------------------
+TICKER: HSG
+Model Type: SVR (Support Vector Regression)
+Best Hyperparameters: {'C': 0.01, 'cache_size': 200, 'coef0': 0.0, 'degree': 3, 'epsilon': 0.05, 'gamma': 'scale', 'kernel': 'rbf', 'max_iter': -1, 'shrinking': True, 'tol': 0.001, 'verbose': False}
+MAE trên tập Validation (Quý 1/2026): 1.656%
+----------------------------------------
